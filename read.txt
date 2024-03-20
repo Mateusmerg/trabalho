@@ -1,0 +1,1 @@
+o projeto do project cria um cronograma sobre o churrasco que sera feito, e ajuda a organizar tudo e mudar horarios e quantidades, para tudo sair perfeito.
